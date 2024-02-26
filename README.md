@@ -1,3 +1,4 @@
 # Final Project
-* [Backend Project](https://github.com)
-* [Frontend Project](https://github.com)
+## Visi  (Vidi signum)
+* [Backend Project](https://github.com/sergiu1301/Backend)
+* [Frontend Project](https://github.com/sergiu1301/Frontend)
